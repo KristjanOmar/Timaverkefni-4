@@ -136,4 +136,4 @@ void vinstri(int hradi) {
 
 ## Myndband
 
-![Myndband](https://user-images.githubusercontent.com/117899282/228880923-8092c10f-b39a-4e36-b005-1a96f9673baa.mp4)
+https://user-images.githubusercontent.com/117899282/228880923-8092c10f-b39a-4e36-b005-1a96f9673baa.mp4
